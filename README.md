@@ -5,7 +5,6 @@ This repository contains a research-driven Python framework that simulates human
 
 # 🧠 Cognitive AI in Python: Human-Like Decision Making Across Neuromorphic Architectures
 
-[![License: IEEE](https://img.shields.io/badge/License-IEEE-blue.svg)](https://www.ieee.org)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-green.svg)]()
 [![Made With](https://img.shields.io/badge/Made%20with-BindsNET%20%7C%20OpenAI%20Gym%20%7C%20Matplotlib-informational)]()
